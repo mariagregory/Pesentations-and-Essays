@@ -10,14 +10,5 @@ Essays and pesentations.
       </td>
   </tr>
     
-    <tr>
-    <td><hr/></td>
-    </tr>
-    <tr>
-        <td>Elementary Spanish Class Video Project<br/>
-        <video width="320" controls>
-            <source src="https://drive.google.com/file/d/1AGjHLIEYFePP27EEhq1R81cYS4CqL9Aw/view?usp=sharing" type="video/mp4" />
-        </video>
-        </td>
-    </tr>
+
   </table>
